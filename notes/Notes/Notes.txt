@@ -1,0 +1,29 @@
+1 - Player
+	1.1 - Importing sprite
+	1.2 - Creating object
+	1.3 - Setting up player movement (WASD)
+	
+2 - Room
+	2.1 - Adjusting room size, view and viewport
+	
+3 - Shooting
+	3.1 - Importing sprite
+	3.2 - Creating object
+	3.3 - Player shoots with SPACE
+	3.4 - Creating projectile effects
+	3.5 - Destroying projectiles instances after leaving room
+	
+4 - Enemy1 (octopus)
+	4.1 - Importing sprites
+	4.2 - Creating object
+	4.3 - Setting up movement
+	4.4 - Creating projectile (sprite & object) + setting up movement
+	4.5 - Enemy shoots after X seconds
+	
+5 - Collisions
+	5.1 - Player's projectile hits enemies and get destroyed (with effects)
+	5.2 - Enemy_01 projectiles hits Player and gets destroyed (with effects)
+	
+	
+	
+	
