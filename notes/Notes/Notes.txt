@@ -12,6 +12,7 @@
 	3.3 - Player shoots with SPACE
 	3.4 - Creating projectile effects
 	3.5 - Destroying projectiles instances after leaving room
+	3.6 - Create and add new shooting effect (both for enemy and player)*
 	
 4 - Enemy1 (octopus)
 	4.1 - Importing sprites
@@ -19,11 +20,16 @@
 	4.3 - Setting up movement
 	4.4 - Creating projectile (sprite & object) + setting up movement
 	4.5 - Enemy shoots after X seconds
+	4.6 - Enemy dies and explodes with shots*
+	4.7 - Enemy instance gets destroyed when leaves the room, but doesn't explode
 	
 5 - Collisions
 	5.1 - Player's projectile hits enemies and get destroyed (with effects)
 	5.2 - Enemy_01 projectiles hits Player and gets destroyed (with effects)
+	5.3 - Improving explosions effect and on hit color effects
 	
-	
-	
+6 - Background
+	6.1 - Import and add background sprites*
+	6.2 - Add static background
+	6.3 - Add moving background layer (stars)
 	
